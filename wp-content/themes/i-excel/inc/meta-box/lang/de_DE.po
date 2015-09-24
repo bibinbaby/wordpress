@@ -1,0 +1,2069 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: i-excel v1.1.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-23 22:08+0100\n"
+"PO-Revision-Date: 2015-04-10 12:30:51+0000\n"
+"Last-Translator: Johann Kratzik <johann@kratzik.com>\n"
+"Language-Team: Johann Kratzik <info@zoomdrive.at>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: AUSTRIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Textdomain-Support: yes"
+
+#: inc/meta-box/inc/meta-box.php:245
+#@ meta-box
+msgid "Please correct the errors highlighted below and try again."
+msgstr "Bitte beheben Sie die unten angeführten Fehler und versuchen Sie es erneut."
+
+#: inc/meta-box/inc/field.php:227
+#@ meta-box
+msgid "+"
+msgstr "+"
+
+#: inc/meta-box/inc/field.php:240
+#@ meta-box
+msgid "&#8211;"
+msgstr "&#8211;"
+
+#: inc/meta-box/inc/fields/file.php:98
+#@ meta-box
+msgid "Error: Cannot delete file"
+msgstr "Fehler: Datei kann nicht gelöscht werden"
+
+#: inc/meta-box/inc/fields/file.php:111
+#@ meta-box
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr "Dateien hochladen"
+
+#: inc/meta-box/inc/fields/file.php:112
+#@ meta-box
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr "+ Neue Datei hinzufügen"
+
+#: inc/meta-box/inc/fields/file-advanced.php:103
+#: inc/meta-box/inc/fields/file.php:168
+#@ meta-box
+msgctxt "file upload"
+msgid "Delete"
+msgstr "Löschen"
+
+#: inc/meta-box/inc/fields/file-advanced.php:104
+#: inc/meta-box/inc/fields/file.php:169
+#@ meta-box
+msgctxt "file upload"
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc/meta-box/inc/fields/image-advanced.php:71
+#@ meta-box
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr "Bilder auswählen oder hochladen"
+
+#: inc/meta-box/inc/fields/image.php:70
+#: inc/meta-box/inc/fields/thickbox-image.php:34
+#@ meta-box
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr "Bilder hochladen"
+
+#: inc/meta-box/inc/fields/image.php:71
+#@ meta-box
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr "+ Neues Bild hinzufügen"
+
+#: inc/meta-box/inc/fields/image-advanced.php:108
+#: inc/meta-box/inc/fields/image.php:136
+#@ meta-box
+msgctxt "image upload"
+msgid "Delete"
+msgstr "Löschen"
+
+#: inc/meta-box/inc/fields/image-advanced.php:109
+#: inc/meta-box/inc/fields/image.php:137
+#@ meta-box
+msgctxt "image upload"
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: inc/meta-box/inc/fields/map.php:48
+#@ meta-box
+msgid "Find Address"
+msgstr "Adresse finden"
+
+#: inc/meta-box/inc/fields/plupload-image.php:105
+#@ meta-box
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr "Bilder hierher ziehen"
+
+#: inc/meta-box/inc/fields/plupload-image.php:106
+#@ meta-box
+msgctxt "image upload"
+msgid "or"
+msgstr "oder"
+
+#: inc/meta-box/inc/fields/plupload-image.php:107
+#@ meta-box
+msgctxt "image upload"
+msgid "Select Files"
+msgstr "Dateien auswählen"
+
+#: inc/meta-box/inc/fields/plupload-image.php:182
+#@ meta-box
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr "Erlaubte Typen von Bilddateien"
+
+#: inc/meta-box/inc/fields/post.php:52
+#@ meta-box
+msgid "Post"
+msgstr "Beitrag"
+
+#: inc/meta-box/inc/fields/post.php:66
+#: inc/meta-box/inc/fields/taxonomy.php:40
+#: inc/meta-box/inc/fields/user.php:62
+#, php-format
+#@ meta-box
+msgid "Select a %s"
+msgstr "%s auswählen"
+
+#: 404.php:15
+#@ i-excel
+msgid "Not found"
+msgstr ""
+
+#: 404.php:20
+#@ i-excel
+msgid "This is somewhat embarrassing, isn&rsquo;t it?"
+msgstr ""
+
+#: 404.php:21
+#@ i-excel
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr ""
+
+#: author-bio.php:25
+#, php-format
+#@ i-excel
+msgid "About %s"
+msgstr ""
+
+#: author-bio.php:29
+#, php-format
+#@ i-excel
+msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: author.php:30
+#, php-format
+#@ i-excel
+msgid "All posts by %s"
+msgstr ""
+
+#: comments.php:24
+#, php-format
+#@ i-excel
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:44
+#@ i-excel
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:45
+#@ i-excel
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: comments.php:46
+#@ i-excel
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: comments.php:51
+#@ i-excel
+msgid "Comments are closed."
+msgstr ""
+
+#: content-aside.php:12
+#: content-audio.php:23
+#: content-gallery.php:23
+#: content-image.php:22
+#: content-link.php:23
+#: content-quote.php:12
+#: content-status.php:12
+#: content-video.php:22
+#: content.php:71
+#: single.php:42
+#@ i-excel
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: content-aside.php:13
+#: content-audio.php:24
+#: content-chat.php:23
+#: content-gallery.php:24
+#: content-image.php:23
+#: content-link.php:24
+#: content-quote.php:13
+#: content-status.php:13
+#: content-video.php:23
+#: content.php:78
+#: image.php:69
+#: page-sidebar.php:33
+#: page.php:40
+#: single-portfolio.php:92
+#: single.php:43
+#@ i-excel
+msgid "Pages:"
+msgstr ""
+
+#: content-aside.php:19
+#: content-aside.php:27
+#: content-audio.php:30
+#: content-chat.php:28
+#: content-gallery.php:38
+#: content-image.php:34
+#: content-link.php:18
+#: content-quote.php:24
+#: content-status.php:18
+#: content-video.php:34
+#: content.php:57
+#: image.php:43
+#: page-sidebar.php:37
+#: page.php:44
+#: single-portfolio.php:96
+#: single.php:37
+#@ i-excel
+msgid "Edit"
+msgstr ""
+
+#: content-gallery.php:35
+#: content-image.php:31
+#: content-quote.php:21
+#: content-video.php:31
+#: content.php:85
+#@ i-excel
+msgid "Leave a comment"
+msgstr ""
+
+#: content-gallery.php:35
+#: content-image.php:31
+#: content-quote.php:21
+#: content-video.php:31
+#: content.php:85
+#@ i-excel
+msgid "One comment so far"
+msgstr ""
+
+#: content-gallery.php:35
+#: content-image.php:31
+#: content-quote.php:21
+#: content-video.php:31
+#: content.php:85
+#@ i-excel
+msgid "View all % comments"
+msgstr ""
+
+#: content-none.php:11
+#@ i-excel
+msgid "Nothing Found"
+msgstr ""
+
+#: content-none.php:17
+#, php-format
+#@ i-excel
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: content-none.php:21
+#@ i-excel
+msgid "Sorry, but nothing matched your search terms. Please try again with different keywords."
+msgstr ""
+
+#: content-none.php:26
+#@ i-excel
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr ""
+
+#: footer.php:21
+#@ i-excel
+msgid "Copyright &copy;"
+msgstr ""
+
+#: footer.php:24
+#@ i-excel
+msgid "http://wordpress.org/"
+msgstr ""
+
+#: footer.php:24
+#@ i-excel
+msgid "Semantic Personal Publishing Platform"
+msgstr ""
+
+#: footer.php:25
+#, php-format
+#@ i-excel
+msgid "Powered by %s"
+msgstr ""
+
+#: footer.php:27
+#@ i-excel
+msgid ", Designed and Developed by"
+msgstr ""
+
+#: footer.php:28
+#@ i-excel
+msgid "http://www.templatesnext.org/"
+msgstr ""
+
+#: footer.php:29
+#@ i-excel
+msgid "templatesnext"
+msgstr ""
+
+#: functions.php:90
+#@ i-excel
+msgid "Navigation Menu"
+msgstr ""
+
+#: functions.php:142
+#@ i-excel
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:148
+#@ i-excel
+msgctxt "Roboto font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:298
+#, php-format
+#@ i-excel
+msgid "Page %s"
+msgstr ""
+
+#: functions.php:313
+#@ i-excel
+msgid "Main Widget Area"
+msgstr ""
+
+#: functions.php:315
+#@ i-excel
+msgid "Appears in the footer section of the site."
+msgstr ""
+
+#: functions.php:323
+#@ i-excel
+msgid "Main Sidebar Widget Area"
+msgstr ""
+
+#: functions.php:325
+#@ i-excel
+msgid "Appears on posts and pages in the sidebar."
+msgstr ""
+
+#: functions.php:359
+#@ i-excel
+msgid "Previous"
+msgstr ""
+
+#: functions.php:360
+#@ i-excel
+msgid "Next"
+msgstr ""
+
+#: functions.php:365
+#@ i-excel
+msgid "Posts navigation"
+msgstr ""
+
+#: functions.php:395
+#@ i-excel
+msgid "Post navigation"
+msgstr ""
+
+#: functions.php:398
+#, php-format
+#@ i-excel
+msgctxt "Previous post link"
+msgid "<span class=\"meta-nav\">&larr;</span> %title"
+msgstr ""
+
+#: functions.php:399
+#, php-format
+#@ i-excel
+msgctxt "Next post link"
+msgid "%title <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: functions.php:437
+#@ i-excel
+msgid "Sticky"
+msgstr ""
+
+#: functions.php:443
+#: functions.php:449
+#@ i-excel
+msgid ", "
+msgstr ""
+
+#: functions.php:458
+#, php-format
+#@ i-excel
+msgid "View all posts by %s"
+msgstr ""
+
+#: functions.php:478
+#, php-format
+#@ i-excel
+msgctxt "1: post format name. 2: date"
+msgid "%1$s on %2$s"
+msgstr ""
+
+#: functions.php:484
+#, php-format
+#@ i-excel
+msgid "Permalink to %s"
+msgstr ""
+
+#: functions.php:689
+#@ i-excel
+msgid "Read More..."
+msgstr ""
+
+#: functions.php:758
+#: inc/class-tgm-plugin-activation.php:196
+#@ i-excel
+#@ tgmpa
+msgid "Install Required Plugins"
+msgstr ""
+
+#: functions.php:759
+#: inc/class-tgm-plugin-activation.php:197
+#@ i-excel
+#@ tgmpa
+msgid "Install Plugins"
+msgstr ""
+
+#: functions.php:760
+#: inc/class-tgm-plugin-activation.php:198
+#, php-format
+#@ i-excel
+#@ tgmpa
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: functions.php:761
+#@ i-excel
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: functions.php:762
+#: inc/class-tgm-plugin-activation.php:200
+#, php-format
+#@ i-excel
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:763
+#: inc/class-tgm-plugin-activation.php:201
+#, php-format
+#@ i-excel
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:764
+#: inc/class-tgm-plugin-activation.php:202
+#, php-format
+#@ i-excel
+msgid "Sorry, but you do not have the correct permissions to install the %s plugin. Contact the administrator of this site for help on getting the plugin installed."
+msgid_plural "Sorry, but you do not have the correct permissions to install the %s plugins. Contact the administrator of this site for help on getting the plugins installed."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:765
+#: inc/class-tgm-plugin-activation.php:203
+#, php-format
+#@ i-excel
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:766
+#: inc/class-tgm-plugin-activation.php:204
+#, php-format
+#@ i-excel
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:767
+#: inc/class-tgm-plugin-activation.php:205
+#, php-format
+#@ i-excel
+msgid "Sorry, but you do not have the correct permissions to activate the %s plugin. Contact the administrator of this site for help on getting the plugin activated."
+msgid_plural "Sorry, but you do not have the correct permissions to activate the %s plugins. Contact the administrator of this site for help on getting the plugins activated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:768
+#: inc/class-tgm-plugin-activation.php:206
+#, php-format
+#@ i-excel
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:769
+#: inc/class-tgm-plugin-activation.php:207
+#, php-format
+#@ i-excel
+msgid "Sorry, but you do not have the correct permissions to update the %s plugin. Contact the administrator of this site for help on getting the plugin updated."
+msgid_plural "Sorry, but you do not have the correct permissions to update the %s plugins. Contact the administrator of this site for help on getting the plugins updated."
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:770
+#: inc/class-tgm-plugin-activation.php:208
+#@ i-excel
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:771
+#: inc/class-tgm-plugin-activation.php:209
+#@ i-excel
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: functions.php:772
+#: inc/class-tgm-plugin-activation.php:210
+#@ i-excel
+#@ tgmpa
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: functions.php:773
+#: inc/class-tgm-plugin-activation.php:212
+#: inc/class-tgm-plugin-activation.php:1951
+#@ i-excel
+#@ tgmpa
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: functions.php:774
+#, php-format
+#@ i-excel
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: header.php:62
+#@ i-excel
+msgid "Call us : "
+msgstr ""
+
+#: header.php:69
+#@ i-excel
+msgid "Mail us : "
+msgstr ""
+
+#: header.php:94
+#@ i-excel
+msgid "Menu"
+msgstr ""
+
+#: header.php:95
+#@ i-excel
+msgid "Skip to content"
+msgstr ""
+
+#: header.php:174
+#, php-format
+#@ i-excel
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: header.php:176
+#, php-format
+#@ i-excel
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: header.php:176
+#@ i-excel
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+#: header.php:178
+#, php-format
+#@ i-excel
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: header.php:178
+#@ i-excel
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: header.php:180
+#, php-format
+#@ i-excel
+msgid "Category Archives: %s"
+msgstr ""
+
+#: header.php:182
+#@ i-excel
+msgid "Archives"
+msgstr ""
+
+#: header.php:188
+#, php-format
+#@ i-excel
+msgid "Search Results for: %s"
+msgstr ""
+
+#: image.php:21
+#, php-format
+#@ i-excel
+msgid "<span class=\"attachment-meta\">Published on <time class=\"entry-date\" datetime=\"%1$s\">%2$s</time> in <a href=\"%3$s\" title=\"Return to %4$s\" rel=\"gallery\">%5$s</a></span>"
+msgstr ""
+
+#: image.php:37
+#@ i-excel
+msgid "Link to full-size image"
+msgstr ""
+
+#: image.php:38
+#@ i-excel
+msgid "Full resolution"
+msgstr ""
+
+#: image.php:50
+#@ i-excel
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: image.php:51
+#@ i-excel
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:199
+#@ tgmpa
+msgid "Something went wrong."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:211
+#@ tgmpa
+msgid "Return to the dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:214
+#, php-format
+#@ tgmpa
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:215
+#@ tgmpa
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:544
+#: inc/class-tgm-plugin-activation.php:2168
+#@ tgmpa
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1174
+#@ tgmpa
+msgid "Private Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1177
+#@ tgmpa
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1182
+#@ tgmpa
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1185
+#@ tgmpa
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1185
+#@ tgmpa
+msgid "Recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1188
+#@ tgmpa
+msgid "Not Installed"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1190
+#@ tgmpa
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1290
+#: inc/class-tgm-plugin-activation.php:1398
+#@ tgmpa
+msgid "Install"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1312
+#: inc/class-tgm-plugin-activation.php:1399
+#@ tgmpa
+msgid "Activate"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1361
+#, php-format
+#@ tgmpa
+msgid "No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1377
+#@ tgmpa
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1378
+#@ tgmpa
+msgid "Source"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1379
+#@ tgmpa
+msgid "Type"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1380
+#@ tgmpa
+msgid "Status"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1508
+#@ tgmpa
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1616
+#@ tgmpa
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#. gettext fix: identical singular and plural forms found, that may be ambiguous! Please check the code!
+#: inc/class-tgm-plugin-activation.php:1638
+#: inc/class-tgm-plugin-activation.php:213
+#@ tgmpa
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:1934
+#@ tgmpa
+msgid "Install package not available."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1935
+#, php-format
+#@ tgmpa
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1936
+#@ tgmpa
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1937
+#@ tgmpa
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1938
+#@ tgmpa
+msgid "Plugin install failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1939
+#@ tgmpa
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1950
+#@ tgmpa
+msgid "Plugin activation failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2064
+#@ tgmpa
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2065
+#, php-format
+#@ tgmpa
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2065
+#: inc/class-tgm-plugin-activation.php:2074
+#@ tgmpa
+msgid "Show Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2065
+#: inc/class-tgm-plugin-activation.php:2074
+#@ tgmpa
+msgid "Hide Details"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2066
+#@ tgmpa
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2067
+#, php-format
+#@ tgmpa
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2071
+#@ tgmpa
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2072
+#, php-format
+#@ tgmpa
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2073
+#, php-format
+#@ tgmpa
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2074
+#, php-format
+#@ tgmpa
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2075
+#@ tgmpa
+msgid "All installations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2076
+#, php-format
+#@ tgmpa
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:88
+#: nx-customizer.php:18
+#@ kirki
+#@ i-excel
+msgid "Background Color"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:89
+#: nx-customizer.php:19
+#@ kirki
+#@ i-excel
+msgid "Background Image"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:90
+#: nx-customizer.php:20
+#@ kirki
+#@ i-excel
+msgid "No Repeat"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:91
+#: nx-customizer.php:21
+#@ kirki
+#@ i-excel
+msgid "Repeat All"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:92
+#: nx-customizer.php:22
+#@ kirki
+#@ i-excel
+msgid "Repeat Horizontally"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:93
+#: nx-customizer.php:23
+#@ kirki
+#@ i-excel
+msgid "Repeat Vertically"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:94
+#: nx-customizer.php:24
+#@ kirki
+#@ i-excel
+msgid "Inherit"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:95
+#: nx-customizer.php:25
+#@ kirki
+#@ i-excel
+msgid "Background Repeat"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:96
+#: nx-customizer.php:26
+#@ kirki
+#@ i-excel
+msgid "Cover"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:97
+#: nx-customizer.php:27
+#@ kirki
+#@ i-excel
+msgid "Contain"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:98
+#: nx-customizer.php:28
+#@ kirki
+#@ i-excel
+msgid "Background Size"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:99
+#: nx-customizer.php:29
+#@ kirki
+#@ i-excel
+msgid "Fixed"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:100
+#: nx-customizer.php:30
+#@ kirki
+#@ i-excel
+msgid "Scroll"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:101
+#: nx-customizer.php:31
+#@ kirki
+#@ i-excel
+msgid "Background Attachment"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:102
+#: nx-customizer.php:32
+#@ kirki
+#@ i-excel
+msgid "Left Top"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:103
+#: nx-customizer.php:33
+#@ kirki
+#@ i-excel
+msgid "Left Center"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:104
+#: nx-customizer.php:34
+#@ kirki
+#@ i-excel
+msgid "Left Bottom"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:105
+#: nx-customizer.php:35
+#@ kirki
+#@ i-excel
+msgid "Right Top"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:106
+#: nx-customizer.php:36
+#@ kirki
+#@ i-excel
+msgid "Right Center"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:107
+#: nx-customizer.php:37
+#@ kirki
+#@ i-excel
+msgid "Right Bottom"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:108
+#: nx-customizer.php:38
+#@ kirki
+#@ i-excel
+msgid "Center Top"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:109
+#: nx-customizer.php:39
+#@ kirki
+#@ i-excel
+msgid "Center Center"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:110
+#: nx-customizer.php:40
+#@ kirki
+#@ i-excel
+msgid "Center Bottom"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:111
+#: nx-customizer.php:41
+#@ kirki
+#@ i-excel
+msgid "Background Position"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:112
+#: nx-customizer.php:42
+#@ kirki
+#@ i-excel
+msgid "Background Opacity"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:113
+#: nx-customizer.php:43
+#@ kirki
+#@ i-excel
+msgid "ON"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:114
+#: nx-customizer.php:44
+#@ kirki
+#@ i-excel
+msgid "OFF"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:115
+#: nx-customizer.php:45
+#@ kirki
+#@ i-excel
+msgid "All"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:116
+#: nx-customizer.php:46
+#@ kirki
+#@ i-excel
+msgid "Cyrillic"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:117
+#: nx-customizer.php:47
+#@ kirki
+#@ i-excel
+msgid "Cyrillic Extended"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:118
+#: nx-customizer.php:48
+#@ kirki
+#@ i-excel
+msgid "Devanagari"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:119
+#: nx-customizer.php:49
+#@ kirki
+#@ i-excel
+msgid "Greek"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:120
+#: nx-customizer.php:50
+#@ kirki
+#@ i-excel
+msgid "Greek Extended"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:121
+#: nx-customizer.php:51
+#@ kirki
+#@ i-excel
+msgid "Khmer"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:122
+#: nx-customizer.php:52
+#@ kirki
+#@ i-excel
+msgid "Latin"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:123
+#: nx-customizer.php:53
+#@ kirki
+#@ i-excel
+msgid "Latin Extended"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:124
+#: nx-customizer.php:54
+#@ kirki
+#@ i-excel
+msgid "Vietnamese"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:125
+#: nx-customizer.php:55
+#@ kirki
+#@ i-excel
+msgctxt "font style"
+msgid "Serif"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:126
+#: nx-customizer.php:56
+#@ kirki
+#@ i-excel
+msgctxt "font style"
+msgid "Sans Serif"
+msgstr ""
+
+#: inc/kirki/includes/Config.php:127
+#: nx-customizer.php:57
+#@ kirki
+#@ i-excel
+msgctxt "font style"
+msgid "Monospace"
+msgstr ""
+
+#: inc/kirki/includes/Controls/PromoControl.php:16
+#@ i-excel
+msgid "http://templatesnext.org/iexcel/"
+msgstr ""
+
+#: inc/kirki/includes/Controls/PromoControl.php:16
+#@ i-excel
+msgid "i-excel Demo"
+msgstr ""
+
+#: inc/kirki/includes/Controls/PromoControl.php:17
+#@ i-excel
+msgid "https://www.facebook.com/templatesnext"
+msgstr ""
+
+#: inc/kirki/includes/Controls/PromoControl.php:17
+#: nx-customizer.php:304
+#@ i-excel
+msgid "Facebook"
+msgstr ""
+
+#: inc/kirki/includes/Controls/PromoControl.php:18
+#@ i-excel
+msgid "http://templatesnext.org/iexcel/docs"
+msgstr ""
+
+#: inc/kirki/includes/Controls/PromoControl.php:18
+#: inc/meta-box/inc/common.php:53
+#@ i-excel
+#@ meta-box
+msgid "Documentation"
+msgstr ""
+
+#: inc/kirki/includes/Controls/PromoControl.php:25
+#@ i-excel
+msgid "If you like my work, buy me"
+msgstr ""
+
+#: inc/kirki/includes/Controls/PromoControl.php:26
+#@ i-excel
+msgid "1 cup of coffee $10.00 USD"
+msgstr ""
+
+#: inc/kirki/includes/Controls/PromoControl.php:27
+#@ i-excel
+msgid "2 cup of coffee $20.00 USD"
+msgstr ""
+
+#: inc/kirki/includes/Controls/PromoControl.php:28
+#@ i-excel
+msgid "3 cup of coffee $30.00 USD"
+msgstr ""
+
+#: inc/kirki/includes/Controls/PromoControl.php:32
+#@ i-excel
+msgid "PayPal – The safer, easier way to pay online."
+msgstr ""
+
+#: inc/meta-box/demo/all-custom-post-types.php:15
+#@ meta-box
+msgid "Personal Information"
+msgstr ""
+
+#: inc/meta-box/demo/all-custom-post-types.php:20
+#@ meta-box
+msgid "Full name"
+msgstr ""
+
+#: inc/meta-box/demo/better-include.php:16
+#: inc/meta-box/demo/include-by-ID-or-page-template.php:8
+#@ meta-box
+msgid "Meta Box Title"
+msgstr ""
+
+#: inc/meta-box/demo/better-include.php:19
+#: inc/meta-box/demo/include-by-ID-or-page-template.php:14
+#@ meta-box
+msgid "Your images"
+msgstr ""
+
+#: inc/meta-box/demo/date-time-js-options.php:8
+#@ meta-box
+msgid "Date Time Picker With JS Options"
+msgstr ""
+
+#: inc/meta-box/demo/date-time-js-options.php:12
+#@ meta-box
+msgid "Date"
+msgstr ""
+
+#: inc/meta-box/demo/date-time-js-options.php:18
+#: inc/meta-box/demo/demo.php:193
+#@ meta-box
+msgid "(yyyy-mm-dd)"
+msgstr ""
+
+#: inc/meta-box/demo/date-time-js-options.php:20
+#@ meta-box
+msgid "Select Date"
+msgstr ""
+
+#: inc/meta-box/demo/date-time-js-options.php:21
+#: inc/meta-box/demo/demo.php:194
+#@ meta-box
+msgid "yy-mm-dd"
+msgstr ""
+
+#: inc/meta-box/demo/date-time-js-options.php:27
+#@ meta-box
+msgid "Datetime"
+msgstr ""
+
+#: inc/meta-box/demo/date-time-js-options.php:38
+#@ meta-box
+msgid "Time"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:42
+#@ meta-box
+msgid "Standard Fields"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:61
+#@ meta-box
+msgid "Text"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:65
+#@ meta-box
+msgid "Text description"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:68
+#@ meta-box
+msgid "Default text value"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:74
+#@ meta-box
+msgid "Checkbox"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:82
+#@ meta-box
+msgid "Radio"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:88
+#: inc/meta-box/demo/demo.php:99
+#: inc/meta-box/demo/demo.php:242
+#: inc/meta-box/demo/demo.php:253
+#: inc/meta-box/demo/demo.php:302
+#@ meta-box
+msgid "Label1"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:89
+#: inc/meta-box/demo/demo.php:100
+#: inc/meta-box/demo/demo.php:243
+#: inc/meta-box/demo/demo.php:254
+#: inc/meta-box/demo/demo.php:303
+#@ meta-box
+msgid "Label2"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:94
+#: inc/meta-box/demo/demo.php:297
+#: inc/meta-box/inc/fields/file-input.php:40
+#@ meta-box
+msgid "Select"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:105
+#: inc/meta-box/demo/demo.php:308
+#: inc/meta-box/demo/demo.php:333
+#@ meta-box
+msgid "Select an Item"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:112
+#@ meta-box
+msgid "Hidden value"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:116
+#@ meta-box
+msgid "Password"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:122
+#@ meta-box
+msgid "Textarea"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:123
+#@ meta-box
+msgid "Textarea description"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:140
+#@ meta-box
+msgid "Password is required"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:141
+#@ meta-box
+msgid "Password must be at least 7 characters"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:149
+#@ meta-box
+msgid "Advanced Fields"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:155
+#@ meta-box
+msgid "Heading"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:157
+#@ meta-box
+msgid "Optional description for this heading"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:161
+#: inc/meta-box/demo/slider.php:9
+#: nx-customizer.php:113
+#@ meta-box
+#@ i-excel
+msgid "Slider"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:166
+#: inc/meta-box/demo/slider.php:14
+#@ meta-box
+msgid "$"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:167
+#: inc/meta-box/demo/slider.php:15
+#@ meta-box
+msgid " USD"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:178
+#@ meta-box
+msgid "Number"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:187
+#@ meta-box
+msgid "Date picker"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:202
+#@ meta-box
+msgid "Datetime picker"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:216
+#@ meta-box
+msgid "Time picker"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:231
+#@ meta-box
+msgid "Color picker"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:237
+#@ meta-box
+msgid "Checkbox list"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:248
+#@ meta-box
+msgid "Autocomplete"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:263
+#@ meta-box
+msgid "Email"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:265
+#@ meta-box
+msgid "Email description"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:271
+#@ meta-box
+msgid "Range"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:273
+#@ meta-box
+msgid "Range description"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:282
+#@ meta-box
+msgid "URL"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:284
+#@ meta-box
+msgid "URL description"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:290
+#@ meta-box
+msgid "oEmbed"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:292
+#@ meta-box
+msgid "oEmbed description"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:312
+#@ meta-box
+msgid "Taxonomy"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:326
+#@ meta-box
+msgid "Posts (Pages)"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:342
+#@ meta-box
+msgid "WYSIWYG / Rich Text Editor"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:347
+#@ meta-box
+msgid "WYSIWYG default value"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:363
+#: inc/meta-box/demo/force-delete.php:12
+#@ meta-box
+msgid "File Upload"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:369
+#@ meta-box
+msgid "File Advanced Upload"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:377
+#: inc/meta-box/demo/force-delete.php:19
+#@ meta-box
+msgid "Image Upload"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:383
+#: inc/meta-box/demo/force-delete.php:25
+#@ meta-box
+msgid "Thickbox Image Upload"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:389
+#: inc/meta-box/demo/force-delete.php:32
+#@ meta-box
+msgid "Plupload Image Upload"
+msgstr ""
+
+#: inc/meta-box/demo/demo.php:396
+#@ meta-box
+msgid "Image Advanced Upload"
+msgstr ""
+
+#: inc/meta-box/demo/force-delete.php:8
+#@ meta-box
+msgid "Test Meta Box"
+msgstr ""
+
+#: inc/meta-box/demo/image-select.php:6
+#@ meta-box
+msgid "Image Select Demo"
+msgstr ""
+
+#: inc/meta-box/demo/image-select.php:10
+#@ meta-box
+msgid "Layout"
+msgstr ""
+
+#: inc/meta-box/demo/map.php:6
+#@ meta-box
+msgid "Google Map"
+msgstr ""
+
+#: inc/meta-box/demo/map.php:10
+#@ meta-box
+msgid "Address"
+msgstr ""
+
+#: inc/meta-box/demo/map.php:12
+#@ meta-box
+msgid "Hanoi, Vietnam"
+msgstr ""
+
+#: inc/meta-box/demo/map.php:16
+#@ meta-box
+msgid "Location"
+msgstr ""
+
+#: inc/meta-box/demo/oembed.php:6
+#@ meta-box
+msgid "oEmbed Demo"
+msgstr ""
+
+#: inc/meta-box/demo/oembed.php:10
+#@ meta-box
+msgid "oEmbed(s)"
+msgstr ""
+
+#: inc/meta-box/demo/slider.php:6
+#@ meta-box
+msgid "Slider Demo"
+msgstr ""
+
+#: inc/meta-box/demo/url.php:6
+#@ meta-box
+msgid "URL Demo"
+msgstr ""
+
+#: inc/meta-box/demo/url.php:10
+#@ meta-box
+msgid "URL(s)"
+msgstr ""
+
+#: inc/meta-box/inc/common.php:54
+#@ meta-box
+msgid "Extensions"
+msgstr ""
+
+#: inc/meta-box/inc/fields/autocomplete.php:18
+#: inc/meta-box/inc/fields/autocomplete.php:83
+#: inc/meta-box/inc/fields/autocomplete.php:100
+#@ meta-box
+msgid "Delete"
+msgstr ""
+
+#: inc/meta-box/inc/fields/button.php:35
+#@ meta-box
+msgid "Click me"
+msgstr ""
+
+#: inc/meta-box/inc/fields/file-advanced.php:23
+#@ meta-box
+msgid "Select Files"
+msgstr ""
+
+#: inc/meta-box/inc/fields/file-advanced.php:66
+#@ meta-box
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: inc/meta-box/inc/fields/file-input.php:17
+#@ meta-box
+msgid "Select File"
+msgstr ""
+
+#: inc/meta-box/inc/fields/file-input.php:42
+#@ meta-box
+msgid "Remove"
+msgstr ""
+
+#: inc/meta-box/inc/fields/file.php:19
+#, php-format
+#@ meta-box
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: inc/meta-box/inc/fields/file.php:20
+#, php-format
+#@ meta-box
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: inc/meta-box/inc/fields/image-advanced.php:23
+#@ meta-box
+msgid "Select Images"
+msgstr ""
+
+#: inc/meta-box/inc/fields/oembed.php:55
+#@ meta-box
+msgid "Embed HTML not available."
+msgstr ""
+
+#: inc/meta-box/inc/fields/oembed.php:77
+#@ meta-box
+msgid "Preview"
+msgstr ""
+
+#: inc/meta-box/inc/fields/user.php:54
+#@ meta-box
+msgid "User"
+msgstr ""
+
+#: inc/tnext-meta.php:40
+#@ i-excel
+msgid "Page Heading Options"
+msgstr ""
+
+#: inc/tnext-meta.php:58
+#@ i-excel
+msgid "Hide Title"
+msgstr ""
+
+#: inc/tnext-meta.php:66
+#@ i-excel
+msgid "Show Default i-excel Slider"
+msgstr ""
+
+#: inc/tnext-meta.php:93
+#@ i-excel
+msgid "Hide breadcrumb"
+msgstr ""
+
+#: inc/tnext-meta.php:103
+#@ i-excel
+msgid "Other Slider Plugin Shortcode"
+msgstr ""
+
+#: inc/tnext-meta.php:107
+#@ i-excel
+msgid "Enter a 3rd party slider shortcode, ex. meta slider, smart slider 2, wow slider, etc. Only works with TemplatesNext Themes "
+msgstr ""
+
+#: inc/tnext-meta.php:128
+#@ i-excel
+msgid "Portfolio Meta"
+msgstr ""
+
+#: inc/tnext-meta.php:149
+#@ nx-admin
+msgid "Portfolio Additinal Details"
+msgstr ""
+
+#: inc/tnext-meta.php:154
+#@ nx-admin
+msgid "Subtitle"
+msgstr ""
+
+#: inc/tnext-meta.php:156
+#@ nx-admin
+msgid "Enter a subtitle for use within the portfolio item index (optional)."
+msgstr ""
+
+#: inc/tnext-meta.php:161
+#@ nx-admin
+msgid "Portfolio Link(External)"
+msgstr ""
+
+#: inc/tnext-meta.php:163
+#@ nx-admin
+msgid "Enter an external link for the item (optional) (NOTE: INCLUDE HTTP://)."
+msgstr ""
+
+#: nx-customizer.php:114
+#@ i-excel
+msgid "Slides details"
+msgstr ""
+
+#: nx-customizer.php:121
+#@ i-excel
+msgid "Basic Settings"
+msgstr ""
+
+#: nx-customizer.php:127
+#@ i-excel
+msgid "Layout Options"
+msgstr ""
+
+#: nx-customizer.php:133
+#@ i-excel
+msgid "Social Links"
+msgstr ""
+
+#: nx-customizer.php:134
+#@ i-excel
+msgid "Insert full URL of your social link including \"http://\" replacing #"
+msgstr ""
+
+#: nx-customizer.php:139
+#@ i-excel
+msgid "Default Blog Page"
+msgstr ""
+
+#: nx-customizer.php:147
+#@ i-excel
+msgid "Slide Settings"
+msgstr ""
+
+#: nx-customizer.php:154
+#@ i-excel
+msgid "Slide 1"
+msgstr ""
+
+#: nx-customizer.php:160
+#@ i-excel
+msgid "Slide 2"
+msgstr ""
+
+#: nx-customizer.php:166
+#@ i-excel
+msgid "Slide 3"
+msgstr ""
+
+#: nx-customizer.php:172
+#@ i-excel
+msgid "Slide 4"
+msgstr ""
+
+#: nx-customizer.php:181
+#@ i-excel
+msgid "More About i-excel"
+msgstr ""
+
+#: nx-customizer.php:194
+#@ i-excel
+msgid "Phone Number"
+msgstr ""
+
+#: nx-customizer.php:198
+#@ i-excel
+msgid "Phone number that appears on top bar."
+msgstr ""
+
+#: nx-customizer.php:204
+#@ i-excel
+msgid "Email Address"
+msgstr ""
+
+#: nx-customizer.php:208
+#@ i-excel
+msgid "Email Id that appears on top bar."
+msgstr ""
+
+#: nx-customizer.php:214
+#@ i-excel
+msgid "Site header logo"
+msgstr ""
+
+#: nx-customizer.php:215
+#@ i-excel
+msgid "Width 280px, height 72px max. Upload logo for header"
+msgstr ""
+
+#: nx-customizer.php:224
+#@ i-excel
+msgid "Banner Text"
+msgstr ""
+
+#: nx-customizer.php:228
+#@ i-excel
+msgid "if you are using a logo and want your site title or slogan to appear on the header banner"
+msgstr ""
+
+#: nx-customizer.php:234
+#@ i-excel
+msgid "Primary Color"
+msgstr ""
+
+#: nx-customizer.php:235
+#@ i-excel
+msgid "Choose your theme color"
+msgstr ""
+
+#: nx-customizer.php:244
+#@ i-excel
+msgid "Blog Posts Layout"
+msgstr ""
+
+#: nx-customizer.php:245
+#@ i-excel
+msgid "(Choose blog posts layout (one column/two column)"
+msgstr ""
+
+#: nx-customizer.php:258
+#@ i-excel
+msgid "Show Full Content"
+msgstr ""
+
+#: nx-customizer.php:259
+#@ i-excel
+msgid "Show full content on blog pages"
+msgstr ""
+
+#: nx-customizer.php:268
+#@ i-excel
+msgid "Wide layout"
+msgstr ""
+
+#: nx-customizer.php:269
+#@ i-excel
+msgid "Check to have wide layou"
+msgstr ""
+
+#: nx-customizer.php:278
+#@ i-excel
+msgid "Additional style"
+msgstr ""
+
+#: nx-customizer.php:279
+#@ i-excel
+msgid "add extra style(CSS) codes here"
+msgstr ""
+
+#: nx-customizer.php:313
+#@ i-excel
+msgid "Twitter"
+msgstr ""
+
+#: nx-customizer.php:322
+#@ i-excel
+msgid "Flickr"
+msgstr ""
+
+#: nx-customizer.php:331
+#@ i-excel
+msgid "RSS"
+msgstr ""
+
+#: nx-customizer.php:340
+#@ i-excel
+msgid "Instagram"
+msgstr ""
+
+#: nx-customizer.php:349
+#@ i-excel
+msgid "Google Plus"
+msgstr ""
+
+#: nx-customizer.php:358
+#@ i-excel
+msgid "YouTube"
+msgstr ""
+
+#: nx-customizer.php:369
+#@ i-excel
+msgid "Slide Duration"
+msgstr ""
+
+#: nx-customizer.php:370
+#@ i-excel
+msgid "Slide visibility in second"
+msgstr ""
+
+#: nx-customizer.php:386
+#@ i-excel
+msgid "Slide1 Title"
+msgstr ""
+
+#: nx-customizer.php:394
+#@ i-excel
+msgid "Slide1 Description"
+msgstr ""
+
+#: nx-customizer.php:402
+#@ i-excel
+msgid "Slide1 Link text"
+msgstr ""
+
+#: nx-customizer.php:410
+#@ i-excel
+msgid "Slide1 Link URL"
+msgstr ""
+
+#: nx-customizer.php:418
+#@ i-excel
+msgid "Slide1 Image"
+msgstr ""
+
+#: nx-customizer.php:429
+#@ i-excel
+msgid "Slide2 Title"
+msgstr ""
+
+#: nx-customizer.php:437
+#@ i-excel
+msgid "Slide2 Description"
+msgstr ""
+
+#: nx-customizer.php:445
+#@ i-excel
+msgid "Slide2 Link text"
+msgstr ""
+
+#: nx-customizer.php:453
+#@ i-excel
+msgid "Slide2 Link URL"
+msgstr ""
+
+#: nx-customizer.php:461
+#@ i-excel
+msgid "Slide2 Image"
+msgstr ""
+
+#: nx-customizer.php:472
+#@ i-excel
+msgid "Slide3 Title"
+msgstr ""
+
+#: nx-customizer.php:480
+#@ i-excel
+msgid "Slide3 Description"
+msgstr ""
+
+#: nx-customizer.php:488
+#@ i-excel
+msgid "Slide3 Link text"
+msgstr ""
+
+#: nx-customizer.php:496
+#@ i-excel
+msgid "Slide3 Link URL"
+msgstr ""
+
+#: nx-customizer.php:504
+#@ i-excel
+msgid "Slide3 Image"
+msgstr ""
+
+#: nx-customizer.php:515
+#@ i-excel
+msgid "Slide4 Title"
+msgstr ""
+
+#: nx-customizer.php:523
+#@ i-excel
+msgid "Slide4 Description"
+msgstr ""
+
+#: nx-customizer.php:531
+#@ i-excel
+msgid "Slide4 Link text"
+msgstr ""
+
+#: nx-customizer.php:539
+#@ i-excel
+msgid "Slide4 Link URL"
+msgstr ""
+
+#: nx-customizer.php:547
+#@ i-excel
+msgid "Slide4 Image"
+msgstr ""
+
+#: nx-customizer.php:558
+#@ i-excel
+msgid "Hide i-excel Slider"
+msgstr ""
+
+#: nx-customizer.php:559
+#@ i-excel
+msgid "Turn Off or On to hide/show default i-excel slider"
+msgstr ""
+
+#: nx-customizer.php:594
+#@ i-excel
+msgid "TemplatesNext Promo"
+msgstr ""
+
+#: tag.php:20
+#, php-format
+#@ i-excel
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: taxonomy-post_format.php:22
+#, php-format
+#@ i-excel
+msgid "%s Archives"
+msgstr ""
+
