@@ -175,7 +175,7 @@ h3 {
 }
 
 h4 {
-	font-size: 20px;
+	font-size: 16px;
 	margin: 25px 0;
 }
 
@@ -800,8 +800,8 @@ img.wp-smiley,
 	max-width: 1264px;
 	margin-right: auto;
 	margin-left: auto;
-	padding-top: 48px;
-	padding-bottom: 48px;
+	padding-top: 10px;
+	padding-bottom: 20px;
 }
 
 .site-main .sidebar-container {
@@ -1724,7 +1724,7 @@ ul.nav-container ul a:hover,
 .entry-summary,
 .entry-meta {
 	margin: 0 auto;
-	width: 100%;
+	width: 95%;
 	text-wrap: normal;
 	word-wrap:break-word;	
 }
@@ -2154,10 +2154,10 @@ footer.entry-meta {
 
 .iheader {
 	display: block;
-	height: 100px;
+	height: 62px; 
 	width: 100%;
 	text-align: center;
-	background-color: #95C837;
+	background-color: #7498F8!important;
 }
 .titlebar {
 	display: block;
@@ -2217,8 +2217,8 @@ footer.entry-meta {
 .iheader h1 {
 	display: block;
 	float: left;
-	font-size: 32px;
-	line-height: 100px;
+	font-size: 20px;
+	line-height: 62px;
 	padding: 0px;
 	margin: 0px;
 	font-weight: 500;
@@ -3675,8 +3675,8 @@ nav.navigation .nav-links a:visited {
  */
 
 .site-footer {
-	background-color: #272727;
-	color: #777777;
+	background-color: #7498F8;
+	color: #FFFFFF;
 	text-align: center;
 }
 
@@ -3690,7 +3690,7 @@ nav.navigation .nav-links a:visited {
 }
 
 .site-footer .site-info a {
-	color: #878787;
+	color: #FFFFFF;
 	font-size: 12px;
 }
 
